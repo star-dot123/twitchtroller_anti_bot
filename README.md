@@ -1,0 +1,2 @@
+# twitchtroller_anti_bot
+Twitchで荒らしのコメントを判断し処理するbot
