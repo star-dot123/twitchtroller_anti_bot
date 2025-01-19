@@ -1,0 +1,15 @@
+{
+  "name": "twitchtroller_anti_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "twitch-js": "^2.0.0-beta.45"
+  }
+}
