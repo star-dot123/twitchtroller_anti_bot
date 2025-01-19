@@ -27,7 +27,6 @@ TwitchトロールアンチBotは、Twitch配信中にスパムコメントや�
 
    ```bash
    git clone https://github.com/star-dot123/twitchtroller_anti_bot.git
-   cd twitchtroller_anti_bot
    ```
 
 2. 必要な依存関係をインストールします。
